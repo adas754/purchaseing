@@ -1,0 +1,77 @@
+
+2022-07-23 15:40:30,854 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:40:32,878 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:40:36,458 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:40:36,649 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:41:15,406 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:41:15,679 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:41:22,887 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:41:23,067 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:42:48,448 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:42:48,662 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:46:35,850 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:46:36,258 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:47:56,875 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:47:57,062 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:47:59,157 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:47:59,328 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:48:38,843 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:48:39,014 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:48:41,013 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:48:41,199 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:49:10,905 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:49:11,085 - INFO - __init__ - Cluster Model loaded
+2022-07-23 15:49:13,144 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 15:49:13,355 - INFO - __init__ - Cluster Model loaded
+2022-07-23 16:03:09,427 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 16:03:10,388 - INFO - __init__ - Cluster Model loaded
+2022-07-23 16:03:20,710 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 16:03:21,177 - INFO - __init__ - Cluster Model loaded
+2022-07-23 16:12:27,582 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 16:12:28,163 - INFO - __init__ - Cluster Model loaded
+2022-07-23 16:12:34,084 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 16:12:34,420 - INFO - __init__ - Cluster Model loaded
+2022-07-23 17:43:23,475 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 17:43:24,221 - INFO - __init__ - Cluster Model loaded
+2022-07-23 17:43:28,327 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 17:43:28,600 - INFO - __init__ - Cluster Model loaded
+2022-07-23 17:44:29,521 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 17:44:29,642 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 18:17:19,443 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 18:17:19,615 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 18:17:20,012 - INFO - __init__ - Cluster Model loaded
+2022-07-23 18:17:20,076 - INFO - __init__ - Cluster Model loaded
+2022-07-23 18:17:23,649 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 18:17:23,896 - INFO - __init__ - Cluster Model loaded
+2022-07-23 18:18:25,661 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 18:18:25,800 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 18:35:33,116 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 18:35:33,158 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 19:17:57,599 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:17:58,077 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:17:59,780 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:18:00,275 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:18:51,848 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:18:52,179 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:20:06,800 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:20:07,376 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:20:13,362 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:20:13,576 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:21:21,037 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 19:21:21,161 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 19:26:49,314 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:26:49,871 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:27:30,762 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:27:31,270 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:27:33,641 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 19:27:33,823 - INFO - __init__ - Cluster Model loaded
+2022-07-23 19:28:58,191 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 19:28:58,215 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 19:57:18,701 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 19:57:18,753 - INFO - cluster_predict - Predicted cluster [0]
+2022-07-23 20:02:52,461 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 20:02:52,908 - INFO - __init__ - Cluster Model loaded
+2022-07-23 20:02:55,504 - INFO - __init__ - Loading model from Saved_models\cluster_model.pkl
+2022-07-23 20:02:55,716 - INFO - __init__ - Cluster Model loaded
+2022-07-23 20:03:25,621 - INFO - cluster_predict - Predicting cluster for data
+2022-07-23 20:03:25,625 - INFO - cluster_predict - Predicted cluster [0]
